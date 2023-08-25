@@ -1,7 +1,7 @@
 # 2022-Machine-Learning-Specialization
 
 
-吴恩达2022新版机器学习 machine learning specialization  
+吴恩达2022新版机器学习 machine learning specializatio  
 课程官网：https://www.coursera.org/specializations/machine-learning-introduction  
 bilibili:https://www.bilibili.com/video/BV19B4y1W76i  
 github:https://github.com/kaieye/2022-Machine-Learning-Specialization  
